@@ -26,12 +26,11 @@
 
 .box{
 border: 1px solid black;
-  width: 25%;
+  width: 150px;
   height: 150px;
 }
 
 .boxes{
-  color: ;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

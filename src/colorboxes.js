@@ -3,7 +3,7 @@ import Box from "./box";
 
 class Colorboxes extends Component {
   static defaultProps = {
-    maxBoxes: 15,
+    maxBoxes: 16,
   };
   constructor(props) {
     super(props);
